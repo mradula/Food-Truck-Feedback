@@ -1,0 +1,5 @@
+# This is a placeholder for the welcome video
+# Since we can't include actual video files in this environment,
+# you'll need to either:
+# 1. Add actual MP4 video files to this directory, or
+# 2. Configure Supabase storage with your video files
